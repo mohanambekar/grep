@@ -1,0 +1,8 @@
+https://en.wikipedia.org/wiki/Grep
+https://www.geeksforgeeks.org/regular-expression-grep/
+man page
+stackoverflow
+NAMES:
+apurv upadeo 
+shivam marathe 
+i was unable to understand some part. i took help regarding that.
