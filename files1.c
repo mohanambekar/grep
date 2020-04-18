@@ -6,7 +6,7 @@
 #include<sys/stat.h>
 #include<errno.h>
 #include<unistd.h>
-#include<errno.h>
+//#include<errno.h>
 #include<unistd.h>
 #include<string.h>
 #include<dirent.h>
