@@ -1,0 +1,16 @@
+./project -i is test1.txt
+./project -v is test1.txt
+./project -w is test1.txt
+./project -c is test1.txt
+./project -m is test1.txt
+./project -f is test1.txt
+./project -h is test1.txt
+./project -H is test1.txt
+./project -q is test1.txt
+./project -r is test1.txt
+./project -b is test1.txt
+./project ^is  test1.txt
+./project is$ test1.txt
+./project *is is test1.txt
+./project  i.s test1.txt
+
